@@ -1,4 +1,4 @@
-Ab API for a task management / todo list using Node, Express and Mongoose.
+An API for a task management / todo list using Node, Express and Mongoose.
 
 The API has the following end-points:
 
